@@ -4,7 +4,7 @@ A clean, modern, and privacy-focused desktop e-book reader. Built with Electron,
 
 Tired of the lack of good, free, and open-source e-book readers for desktop? Moko Reader is a standalone solution that requires no installation. It respects your privacy by processing all files locally—nothing is ever uploaded.
 
-*(Screenshot of Moko Reader in action)*
+*(REMEMBER TO DO THIS Screenshot of Moko Reader in action)*
 
 ### ✨ Key Features
 
