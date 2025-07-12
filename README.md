@@ -1,3 +1,5 @@
+# WORK IN PROGRESS
+
 # Moko Reader
 
 A clean, modern, and privacy-focused desktop e-book reader. Built with Electron, it leverages the power and flexibility of web technologies to deliver a portable, native-like experience on your machine.
